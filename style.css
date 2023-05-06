@@ -1,0 +1,46 @@
+h1 {
+    text-align: center; /* put the text of the h1 elements in cetner of the screen */
+   
+}
+
+body {
+    background-image: url("https://uploads.disquscdn.com/images/4cb87960911b0a268629f6a4c262cd6f4b6783c790288b030ac682b3870fdbc6.jpg"); /* Get the background image from this url */
+    background-repeat: repeat; /* repeat the background image if it doesnn't cover the full screen height and width*/
+    background-size: auto; /* Automatically determine the background size*/
+    color:#FFF; /*Use color of hexadecimal value #FFF (i.e. white) for all the elements inside body element*/
+  }
+
+  a {
+    color: aqua;
+  }
+
+  p {
+    text-align: justify;
+  }
+
+  #acting-photo {
+    float: left;
+    margin-right: 2 0px;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid white;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    text-decoration-line: underline;
+  }
+
+  .main-heading{
+    padding: 20px;
+    margin-bottom: 15px;
+  }
+
+  .childhoodphoto{
+    padding: 20px;
+    margin-bottom: 15px;
+  }
