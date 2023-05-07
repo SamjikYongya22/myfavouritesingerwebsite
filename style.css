@@ -4,14 +4,14 @@ h1 {
 }
 
 body {
-    background-image: url("https://uploads.disquscdn.com/images/4cb87960911b0a268629f6a4c262cd6f4b6783c790288b030ac682b3870fdbc6.jpg"); /* Get the background image from this url */
+    background-image: url("https://kpopreviewed.files.wordpress.com/2019/11/iu-lovepoem-1.jpg"); /* Get the background image from this url */
     background-repeat: repeat; /* repeat the background image if it doesnn't cover the full screen height and width*/
     background-size: auto; /* Automatically determine the background size*/
     color:#FFF; /*Use color of hexadecimal value #FFF (i.e. white) for all the elements inside body element*/
   }
 
   a {
-    color: aqua;
+    color: #FFF;
   }
 
   p {
